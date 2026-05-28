@@ -1,3 +1,8 @@
+///     Accept Number from User and Print Numbers till that Number
+///     INPUT : 8
+///     OUTPUT : 1  2   3   4   5   6   7   8
+
+
 #include<stdio.h>
 
 void Display(int iNo)

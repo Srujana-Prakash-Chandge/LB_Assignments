@@ -1,3 +1,7 @@
+///     Accept Number N from User and Print its First 5 Multiples
+///     INPUT : 4
+///     OUTPUT : 4  8  12  16  20
+
 #include<stdio.h>
 
 void MultipleDisplay(int iNo)

@@ -1,3 +1,8 @@
+///     Accept Number from User and Print that Number of Event Numbers on Screen
+///     INPUT : 7
+///     OUTPUT : 2  4   6   8   10  12  14
+
+
 ///Check FLOW AND LOGIC
 #include<stdio.h>
 void PrintEven(int iNo)
@@ -13,7 +18,7 @@ void PrintEven(int iNo)
 
 
    
-        for(iCnt=0;iCnt<= iNo*2; iCnt+=2){
+        for(iCnt=2;iCnt<= iNo*2; iCnt+=2){
 
             
             printf("%d\t", iCnt);

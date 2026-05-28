@@ -1,3 +1,7 @@
+///     Accept Number from User and Display its Table
+///     INPUT : 2
+///     OUTPUT : 2  4   6   8   10  12  14  16  18  20
+
 #include<stdio.h>
 
 void Table(int iNo)

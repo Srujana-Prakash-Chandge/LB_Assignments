@@ -1,3 +1,7 @@
+///     Program to Divide 2 Numbers 
+///     OUTPUT : Division is 3
+
+
 #include<stdio.h>
 
 int Divide(int iNo1, int iNo2)

@@ -1,3 +1,7 @@
+///     Accept one Character from User and Convert its Case
+///     INPUT : a
+///     OUTPUT : A
+
 #include<stdio.h>
 
 void DisplayConvert(char cValue)

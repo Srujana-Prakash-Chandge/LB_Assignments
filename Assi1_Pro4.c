@@ -1,3 +1,7 @@
+///     Accept Number from User and Check Whether it is Divisible by 5 or not
+///     INPUT : 15
+///     OUTPUT : Dividible by 5
+
 #include <stdio.h>
 
 typedef int BOOL;

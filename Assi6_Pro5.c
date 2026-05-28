@@ -1,3 +1,7 @@
+///     Accept Number from User and Display Table in Reverse order
+///     INPUT : 2
+///     OUTPUT : 20 18  16  14  10  8   6   4  2
+
 #include<stdio.h>
 
 void Table(int iNo)

@@ -1,3 +1,7 @@
+///     Accept Number from User and Print that Number of $ and * 
+///     INPUT : 4
+///     OUTPUT : $  *   $   *   $   *   $   *
+
 #include<stdio.h>
 
 void Pattern(int iNo)

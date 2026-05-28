@@ -1,3 +1,8 @@
+///     Accept Number from User and Return Summation of all its Non-Factors
+///     INPUT : 12
+///     OUTPUT : 50
+
+
 #include<stdio.h>
 
 int SumNonFact(int iNo)

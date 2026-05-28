@@ -1,3 +1,7 @@
+///     Accept one Character from User and Check it's Vowel or not
+///     INPUT : E
+///     OUTPUT : TRUE
+
 #include<stdio.h>
 
 typedef int BOOL;

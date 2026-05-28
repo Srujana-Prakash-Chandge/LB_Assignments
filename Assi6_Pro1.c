@@ -1,3 +1,7 @@
+///     Accept Number from User & if Number < 50 - print "Small", Number > 50 & < 100 , print "Medium", Number > 100, print "Large"
+///     INPUT : 75
+///     OUTPUT : Medium
+
 #include<stdio.h>
 
 void MultipleDisplay(int iNo)

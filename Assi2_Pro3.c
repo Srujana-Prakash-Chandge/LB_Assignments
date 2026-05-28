@@ -1,3 +1,7 @@
+///     Accept a Number from User and if Number < 10 = Print "Hello" otherwise Print "Demo"
+///     INPUT : 12  5
+///     OUTPUT : 12  12  12  12  12
+
 #include<stdio.h>
 
  void Display(int iNo)

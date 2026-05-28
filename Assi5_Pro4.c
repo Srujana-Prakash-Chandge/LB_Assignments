@@ -1,3 +1,8 @@
+///     Accept Number N from User and Print all Odd Numbers upto N
+///     INPUT : 18
+///     OUTPUT : 1  3   5   7   9   11  13
+
+
 #include<stdio.h>
 
 void OddDisplay(int iNo)

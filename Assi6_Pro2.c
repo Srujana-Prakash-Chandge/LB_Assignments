@@ -1,3 +1,7 @@
+///     Accept Single Digit Number from User & print it into word
+///     INPUT : 5
+///     OUTPUT : Five
+
 #include<stdio.h>
 
 void Display(int iNo)

@@ -1,3 +1,8 @@
+///     Accept Number from User and Return Difference between Summation of all its Factors and Non-Factors
+///     INPUT : 12
+///     OUTPUT : -34  (16-50)
+
+
 #include<stdio.h>
 
 int SumNonFact(int iNo)

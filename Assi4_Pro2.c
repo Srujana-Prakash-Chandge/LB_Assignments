@@ -1,3 +1,8 @@
+///     Accept Number from User and Display its factors in Decreasing Order
+///     INPUT : 4
+///     OUTPUT : 4  8  12  16  20
+
+
 #include<stdio.h>
 
 void FactRev(int iNo)

@@ -1,3 +1,7 @@
+///     Convert US Dollar to INR  (1 $ = 70 Rs)
+///     INPUT : 10
+///     OUTPUT : 700
+
 #include<stdio.h>
 
 int DollartoInr(int iNo)

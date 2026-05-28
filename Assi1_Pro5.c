@@ -1,3 +1,7 @@
+///     Accept Number from User and Print that Number of *s on Screen
+///     INPUT : 3
+///     OUTPUT : *   *   *
+
 #include <stdio.h>
 
 void Accept(int iNo)

@@ -1,3 +1,9 @@
+///     Accept Number from User and Check wheater its Even or Odd 
+///     INPUT : 6
+///     OUTPUT : Its even
+
+
+
 #include <stdio.h>
 
 #define TRUE 1

@@ -1,3 +1,8 @@
+///     Accept Number from User and Display Pattern 
+///     INPUT : 5
+///     OUTPUT : *  *   *   *   *   #   #   #   #   #
+
+
 #include<stdio.h>
 
 void Display(int iNo)

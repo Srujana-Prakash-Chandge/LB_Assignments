@@ -1,4 +1,8 @@
-////Error
+///     Accept 2 Numbers from User and Display 1st Number in 2nd Number of Times
+///     INPUT : 12  5
+///     OUTPUT : 12  12  12  12  12
+
+
 #include <stdio.h>
 
 void Display(int iNo, int iFrequency)

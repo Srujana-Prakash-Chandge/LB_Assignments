@@ -1,3 +1,7 @@
+///     Accept Number from User and Print Even Factors of that Number
+///     INPUT : 24
+///     OUTPUT : 1  2   4   6   8   12
+
 #include<stdio.h>
 void DisplayFactor(int iNo){
     int i = 0;

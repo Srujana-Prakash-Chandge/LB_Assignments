@@ -1,3 +1,8 @@
+///     Accept Number from User and Display all its Non-Factors
+///     INPUT : 12
+///     OUTPUT : 5  7   8   9   10  12
+
+
 #include<stdio.h>
 
 void NonFactors(int iNo)

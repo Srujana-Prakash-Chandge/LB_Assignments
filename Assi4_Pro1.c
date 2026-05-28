@@ -1,3 +1,8 @@
+///     Accept Number from User and Display its Multiplication of Factors
+///     INPUT : 4
+///     OUTPUT : 4  8  12  16  20
+
+
 #include<stdio.h>
 
 int MultiFact(int iNo)

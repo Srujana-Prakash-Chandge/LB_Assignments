@@ -1,3 +1,8 @@
+///     Accept Number from User and Print its Number Line
+///     INPUT : 4
+///     OUTPUT : -4  -3   -2  -1   0   1   2   3   4
+
+
 #include<stdio.h>
 
 void Display(int iNo)
