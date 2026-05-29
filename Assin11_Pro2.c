@@ -1,6 +1,6 @@
-///     Accept Range from User and Display all Numbers in that Range
-///     INPUT : 10      18
-///     OUTPUT : 10 11  12  13  14  15  16  17  18
+///     Accept Range from User and Display all Even Numbers in Between that Range
+///     INPUT : 10    18
+///     OUTPUT : 10   12   14   16   18
 
 
 #include<stdio.h>
@@ -13,7 +13,10 @@ void RangeDisplay(int iStart, int iEnd)
     
     for(iCnt = iStart ; iCnt <= iEnd ; iCnt++)
         {
-            printf("%d\t",iCnt);
+            if(iCnt % 2 ==0)
+            {
+                printf("%d\t",iCnt);
+            }
         }
 }
 
