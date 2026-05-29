@@ -13,7 +13,7 @@ int CountEven(int iNo)
    if(iNo < 0)
    {iNo = -iNo;}
 
-   while(iNo > 10)          // Loop runs until number becomes 0  
+   while(iNo > 0)          // Loop runs until number becomes 0  
                             // Each iteration processes one digit  
                             // Loop continues because iNo changes using iNo = iNo / 10
    {
