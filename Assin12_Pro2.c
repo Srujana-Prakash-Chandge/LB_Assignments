@@ -18,14 +18,14 @@ BOOL ChkZero(int iNo){
 
     while(iNo>0)
     {
-        iDigit = iNo % 10;
+        iDigit = iNo % 10;      // Extracts the last digit
 
-        if(iDigit == 0)
+        if(iDigit == 0)         // Check Number has 0 or Not
         {
             return TRUE;
         }
         
-        iNo = iNo / 10;
+        iNo = iNo / 10;         // Removes the last digit and updates number for next iteration
     }
 
 }

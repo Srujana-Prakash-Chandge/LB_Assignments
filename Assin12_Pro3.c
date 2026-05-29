@@ -15,14 +15,14 @@ int CountTwo(int iNo){
 
     while(iNo>0)
     {
-        iDigit = iNo % 10;
+        iDigit = iNo % 10;    // Extracts the last digit
 
-        if(iDigit == 2)
+        if(iDigit == 2)       // Check Number has 2 or Not
         {
-            iChkTwo++;
+            iChkTwo++;        // Counts how many 2s are there   (DOES NOT RUNS THE LOOP)
         }
         
-        iNo = iNo / 10;
+        iNo = iNo / 10;       // Removes the last digit and updates number for next iteration
     }
 
     return iChkTwo;

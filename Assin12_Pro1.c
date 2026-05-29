@@ -16,10 +16,9 @@ void DisplayDigit(int iNo){
 
     while(iNo>0)
     {
-        iDigit = iNo % 10;
-
-        printf("%d\n", iDigit);
-        iNo = iNo / 10;
+        iDigit = iNo % 10;        // Extracts the last digit
+        printf("%d\n", iDigit);   // Print the Output
+        iNo = iNo / 10;           // Removes the last digit and updates number for next iteration
     }
 }
 

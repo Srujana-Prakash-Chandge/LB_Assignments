@@ -19,7 +19,7 @@ int Count(int iNo){
 
         if(iDigit < 6)                  //Check for Condition
         {
-            iChkFour = iChkFour + 1;    // Counts how many times condition becomes true 
+            iChkFour++;                 // Counts how many (less than 6) digits are there (DOES NOT RUNS THE LOOP)
         }
 
         iNo = iNo / 10;                 // Removes the last digit and updates number for next iteration

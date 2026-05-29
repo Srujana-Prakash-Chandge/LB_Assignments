@@ -19,7 +19,7 @@ int CountFour(int iNo){
 
         if(iDigit == 4)                 //Check for Condition
         {
-            iChkFour = iChkFour + 1;    // Counts how many times condition becomes true 
+            iChkFour = iChkFour + 1;    // Counts how many times condition becomes true   (DOES NOT RUNS THE LOOP)
         }
 
         iNo = iNo / 10;                 // Removes the last digit and updates number for next iteration
